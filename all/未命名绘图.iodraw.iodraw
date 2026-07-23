@@ -35,7 +35,7 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-17" value="实现接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uFeAzYvAH7w2sk346ngR-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uFeAzYvAH7w2sk346ngR-18" value="依赖接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
