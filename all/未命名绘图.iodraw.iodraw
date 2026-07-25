@@ -25,6 +25,11 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-9" target="uFeAzYvAH7w2sk346ngR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-9" target="uFeAzYvAH7w2sk346ngR-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345.875" y="510.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-9" value="LeadIngestionService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="250" width="120" height="40" as="geometry" />
         </mxCell>
@@ -74,6 +79,9 @@
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-37" value="调用Outboxrepository存储任务清单，进入任务队列。并返回一个接收到lead的确认信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="501" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.875" y="480.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
