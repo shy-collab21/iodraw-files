@@ -52,13 +52,11 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-17" value="实现接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="475" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uFeAzYvAH7w2sk346ngR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-18">
+        <mxCell id="uFeAzYvAH7w2sk346ngR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="347" y="349.8571428571429" as="targetPoint" />
+            <mxPoint x="367" y="350.0000000000002" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uFeAzYvAH7w2sk346ngR-18" value="依赖接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367" y="335" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-24" target="uFeAzYvAH7w2sk346ngR-26">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +68,7 @@
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="205.00000000000023" as="targetPoint" />
+            <mxPoint x="350" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-26" value="分离traceId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
