@@ -68,8 +68,16 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-24" value="WorspaceContextService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="143" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="205.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-26" value="分离traceId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
