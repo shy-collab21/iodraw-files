@@ -23,7 +23,7 @@
           <mxGeometry x="278" y="40" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-9" value="LeadIngestionService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="250" width="120" height="45" as="geometry" />
+          <mxGeometry x="286" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-11" value="&lt;div style=&quot;background-color: rgb(252, 252, 252); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;LeadRawRepository&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="410" width="132" height="35" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-29" value="校验请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
