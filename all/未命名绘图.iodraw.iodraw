@@ -6,12 +6,16 @@
         <mxCell id="1" parent="0" />
         <mxCell id="uFeAzYvAH7w2sk346ngR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="250.00000000000023" as="targetPoint" />
+            <mxPoint x="346" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-1" target="uFeAzYvAH7w2sk346ngR-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="346" y="240.00000000000023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="346" y="130" />
+              <mxPoint x="597" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-1" value="LeadIngestionController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -56,7 +60,7 @@
           <mxGeometry x="367" y="335" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="180.00000000000023" width="120" height="60" as="geometry" />
+          <mxGeometry x="537" y="255.00000000000023" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
