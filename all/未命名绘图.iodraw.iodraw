@@ -20,40 +20,40 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-9" target="uFeAzYvAH7w2sk346ngR-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="515" y="345" />
-              <mxPoint x="515" y="345" />
+              <mxPoint x="345" y="345" />
+              <mxPoint x="345" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-9" value="LeadIngestionService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-11" value="&lt;div style=&quot;background-color: rgb(252, 252, 252); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;LeadRawRepository&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="385" width="132" height="60" as="geometry" />
+          <mxGeometry x="279" y="385" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-14" target="uFeAzYvAH7w2sk346ngR-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="505" as="targetPoint" />
+            <mxPoint x="345" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-14" value="&lt;div style=&quot;background-color: rgb(252, 252, 252); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;JdbcLeadRawRepository&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="525" width="170" height="60" as="geometry" />
+          <mxGeometry x="260" y="525" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="517" y="489.8571428571429" as="targetPoint" />
+            <mxPoint x="347" y="489.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-17" value="实现接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="475" width="120" height="30" as="geometry" />
+          <mxGeometry x="367" y="475" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="517" y="349.8571428571429" as="targetPoint" />
+            <mxPoint x="347" y="349.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-18" value="依赖接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="335" width="120" height="30" as="geometry" />
+          <mxGeometry x="367" y="335" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="537" y="180.00000000000023" width="120" height="60" as="geometry" />
