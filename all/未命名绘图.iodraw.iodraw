@@ -9,6 +9,11 @@
             <mxPoint x="520" y="250.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uFeAzYvAH7w2sk346ngR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uFeAzYvAH7w2sk346ngR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="240.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uFeAzYvAH7w2sk346ngR-1" value="LeadIngestionController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="278" y="40" width="136" height="40" as="geometry" />
         </mxCell>
