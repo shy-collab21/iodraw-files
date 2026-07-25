@@ -67,8 +67,8 @@
         <mxCell id="uFeAzYvAH7w2sk346ngR-24" value="WorspaceContextService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="255" width="143" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="uFeAzYvAH7w2sk346ngR-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541.5" y="340.0000000000002" width="120" height="60" as="geometry" />
+        <mxCell id="uFeAzYvAH7w2sk346ngR-26" value="分离traceId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541.5" y="380.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
